@@ -14,7 +14,7 @@ function Home() {
      </div>
       
      <img
-        src="./dist/MERN.jpg" 
+        src="./public/MERN.jpg" 
         alt="MERN Stack Wallpaper"
         className="w-full h-60 sm:h-72 md:h-80 lg:h-96 xl:h-155 object-cover"
       />
